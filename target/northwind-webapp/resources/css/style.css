@@ -1,0 +1,86 @@
+.header {
+    width: 100%;
+    background: url("../image/world.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.header p{
+    padding: 20px 0px 20px 0px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.wrapper {
+    background-color: #DDDDDD;
+    
+}
+.container {
+    background-color: white;
+    border: #333333;
+    border-radius: 20px;
+    margin: auto;
+    width: 55%;
+    padding: 50px 0px 30px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* odd row colors  */
+.container tr:nth-child(even){background-color: #f2f2f2;}
+.container tr:hover {background-color: #ddd;}
+
+table {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    margin: auto;
+    width: auto;
+}
+
+th {
+    background-color: #1B9CFC;
+}
+
+td, th{
+    padding: 5px 10px 5px 10px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    width: 100%;
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    background-size: 100%;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #2ed573;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+body{ margin: 0px}
