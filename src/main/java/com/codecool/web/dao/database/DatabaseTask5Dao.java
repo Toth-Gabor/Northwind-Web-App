@@ -12,7 +12,7 @@ import java.util.List;
 
 public class DatabaseTask5Dao extends AbstractDao implements Task5Dao {
     
-    DatabaseTask5Dao(Connection connection) {
+    public DatabaseTask5Dao(Connection connection) {
         super(connection);
     }
     
