@@ -31,7 +31,7 @@ h1 {
     border-radius: 20px;
     margin: auto;
     width: 55%;
-    padding: 50px 0px 30px 0px;
+    padding: 20px 0px 30px 0px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /* odd row colors  */
@@ -47,17 +47,19 @@ table {
 
 th {
     background-color: #1B9CFC;
+    text-align: left;
 }
 
 td, th{
     padding: 5px 10px 5px 10px;
 }
-
 /* Add a black background color to the top navigation */
 .topnav {
-    width: 100%;
     background-color: #333;
-    overflow: hidden;
+    overflow: auto;
+    position: sticky;
+    text-align: center;
+    width: 100%;
 }
 
 /* Style the links inside the navigation bar */

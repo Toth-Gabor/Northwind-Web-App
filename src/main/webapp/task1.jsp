@@ -12,8 +12,9 @@
 <body>
     <jsp:include page="resources/snippets/header.html"/>
     <div class="wrapper">
-        <h1>Task 1 results:</h1>
+        <br>
         <div class="container">
+            <h1>Task 1 results:</h1>
             <table>
                 <tr>
                     <th>Product</th>
