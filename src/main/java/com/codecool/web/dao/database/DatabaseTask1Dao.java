@@ -3,10 +3,7 @@ package com.codecool.web.dao.database;
 import com.codecool.web.dao.Task1Dao;
 import com.codecool.web.model.Task1Result;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -32,6 +29,28 @@ public class DatabaseTask1Dao extends AbstractDao implements Task1Dao {
             ResultSet resultSet = statement.executeQuery(sql)){
             while (resultSet.next()){
                 task1Results.add(fetchResult(resultSet));
+            }
+        }
+        return task1Results;
+    }
+    
+    public List<Task1Result> getFilteredTask(String companyName) throws SQLException{
+    
+        List<Task1Result> task1Results = new ArrayList<>();
+        String sql = "select product_name as product,\n" +
+                    "       company_name as company\n" +
+                    "from products\n" +
+                    "         join suppliers\n" +
+                    "              on products.supplier_id = suppliers.supplier_id\n" +
+                    "WHERE company_name = ?\n" +
+                    "order by product, company asc;";
+        
+        try(PreparedStatement statement = connection.prepareStatement(sql)){
+            statement.setString(1, "companyName");
+            try (ResultSet resultSet = statement.executeQuery()){
+                while (resultSet.next()){
+                    task1Results.add(fetchResult(resultSet));
+                }
             }
         }
         return task1Results;
