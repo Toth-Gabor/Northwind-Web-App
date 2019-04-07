@@ -7,23 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="resources/css/style.css">
     <meta charset="UTF-8">
-    <title>Task 2 page</title>
+    <title>Task 5 page</title>
 </head>
 <body>
     <jsp:include page="resources/snippets/header.html"/>
     <div class="wrapper">
         <br>
         <div class="container">
-            <h1>Task 2 results:</h1>
+            <h1>Task 5 results:</h1>
             <table>
                 <tr>
                     <th>Company</th>
-                    <th>Products</th>
+                    <th>Product</th>
+                    <th>Unit price</th>
                 </tr>
-                <c:forEach var="t" items="${task2Results}">
+                <c:forEach var="t" items="${task5Results}">
                     <tr>
                         <td>${t.company}"</td>
-                        <td>${t.count}</td>
+                        <td>${t.product}"</td>
+                        <td>${t.price}"</td>
                     </tr>
                 </c:forEach>
             </table>

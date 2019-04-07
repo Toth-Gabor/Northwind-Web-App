@@ -10,23 +10,23 @@
     <title>Task 3 page</title>
 </head>
 <body>
-<jsp:include page="resources/snippets/header.html"/>
-<div class="wrapper">
-    <br>
-    <div class="container">
-        <h1>Task 3 results:</h1>
-        <table>
-            <tr>
-                <th>Company</th>
-            </tr>
-            <c:forEach var="t" items="${task3Results}">
+    <jsp:include page="resources/snippets/header.html"/>
+    <div class="wrapper">
+        <br>
+        <div class="container">
+            <h1>Task 3 results:</h1>
+            <table>
                 <tr>
-                    <td>${t.company}"</td>
+                    <th>Company</th>
                 </tr>
-            </c:forEach>
-        </table>
+                <c:forEach var="t" items="${task3Results}">
+                    <tr>
+                        <td>${t.company}"</td>
+                    </tr>
+                </c:forEach>
+            </table>
+        </div>
+        <jsp:include page="resources/snippets/footer.html"/>
     </div>
-    <jsp:include page="resources/snippets/footer.html"/>
-</div>
 </body>
 </html>
