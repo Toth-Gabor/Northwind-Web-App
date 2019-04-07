@@ -4,9 +4,11 @@
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/servlet/Task1Servlet.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/dao/database/DatabaseTask2Dao.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/service/simple/SimpleTask1Service.java
+/home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/service/Task2Service.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/servlet/AbstractServlet.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/service/Task1Service.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java
+/home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/service/simple/SimpleTask2Service.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/model/Task2Result.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/dao/Task1Dao.java
 /home/gabor/codecool/java-Web-Sql/3.Si-week/northwind-webapp/src/main/java/com/codecool/web/dao/Task2Dao.java

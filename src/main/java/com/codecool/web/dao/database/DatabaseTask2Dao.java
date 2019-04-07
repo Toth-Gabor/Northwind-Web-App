@@ -40,7 +40,7 @@ public class DatabaseTask2Dao extends AbstractDao implements Task2Dao {
     private Task2Result fetchResult(ResultSet resultSet) throws SQLException {
         
         String companyName = resultSet.getString("company");
-        int products = resultSet.getInt("product");
+        int products = resultSet.getInt("products");
         return new Task2Result(companyName, products);
     }
 }

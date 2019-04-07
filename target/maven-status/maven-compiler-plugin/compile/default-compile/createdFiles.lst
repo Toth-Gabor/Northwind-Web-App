@@ -8,6 +8,8 @@ com/codecool/web/servlet/AbstractServlet.class
 com/codecool/web/dao/database/DatabaseTask1Dao.class
 com/codecool/web/model/Task2Result.class
 com/codecool/web/dao/Task1Dao.class
+com/codecool/web/service/Task2Service.class
+com/codecool/web/service/simple/SimpleTask2Service.class
 com/codecool/web/service/exception/ServiceException.class
 com/codecool/web/service/simple/SimpleTask1Service.class
 com/codecool/web/service/Task1Service.class
