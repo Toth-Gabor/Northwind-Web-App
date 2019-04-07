@@ -11,5 +11,8 @@
 </head>
 <body>
     <jsp:include page="resources/snippets/header.html"/>
+    <br>
+    <h1>Welcome to my Northwind App</h1>
+    <h1>Choose from the tasks above</h1>
 </body>
 </html>
