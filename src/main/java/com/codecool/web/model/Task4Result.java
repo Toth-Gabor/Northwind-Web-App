@@ -5,14 +5,14 @@ import java.util.List;
 public class Task4Result {
 
     private String company;
-    private List<Integer> orderIds;
+    private List<Short> orderIds;
     
-    public Task4Result(String company, List<Integer> orderIds) {
+    public Task4Result(String company, List<Short> orderIds) {
         this.company = company;
         this.orderIds = orderIds;
     }
     
-    public List<Integer> getOrderIds() {
+    public List<Short> getOrderIds() {
         return orderIds;
     }
     
