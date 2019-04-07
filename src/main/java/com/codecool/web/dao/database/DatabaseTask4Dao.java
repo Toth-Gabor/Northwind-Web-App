@@ -23,6 +23,7 @@ public class DatabaseTask4Dao extends AbstractDao implements Task4Dao {
                     "\ton customers.customer_id = orders.customer_id\n" +
                     "\tgroup by customers.company_name\n" +
                     "\torder by company_name asc;";
+        
         try (Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery(sql)){
             while (resultSet.next()) {
