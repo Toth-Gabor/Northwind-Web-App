@@ -19,4 +19,9 @@ public class SimpleTask1Service implements Task1Service {
     public List<Task1Result> getResults() throws SQLException {
         return task1Dao.findAll();
     }
+    
+    @Override
+    public List<Task1Result> getFilteredTask(String companyName) throws SQLException {
+        return task1Dao.getFilteredTask(companyName);
+    }
 }

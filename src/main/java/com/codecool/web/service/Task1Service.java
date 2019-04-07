@@ -8,4 +8,6 @@ import java.util.List;
 public interface Task1Service {
     
     List<Task1Result> getResults() throws SQLException;
+    
+    List<Task1Result> getFilteredTask(String companyName) throws SQLException;
 }
