@@ -24,10 +24,13 @@ h1 {
     text-align: center;
 }
 
-
 .wrapper {
     background-color: #DDDDDD;
     height: auto;
+}
+.input{
+    background-color: inherit;
+    padding: 10px 10px 0px 10px;
 }
 
 .container {
@@ -58,11 +61,12 @@ th {
 td, th{
     padding: 5px 10px 5px 10px;
 }
+
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
     overflow: auto;
-    position: sticky;
     text-align: center;
     width: 100%;
 }

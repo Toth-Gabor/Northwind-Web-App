@@ -46,7 +46,7 @@ public class DatabaseTask1Dao extends AbstractDao implements Task1Dao {
                     "order by product, company asc;";
         
         try(PreparedStatement statement = connection.prepareStatement(sql)){
-            statement.setString(1, "companyName");
+            statement.setString(1, companyName );
             try (ResultSet resultSet = statement.executeQuery()){
                 while (resultSet.next()){
                     task1Results.add(fetchResult(resultSet));

@@ -22,7 +22,7 @@
                 </tr>
                 <c:forEach var="t" items="${task4Results}">
                     <tr>
-                        <td>${t.company}"</td>
+                        <td>${t.company}</td>
                         <td><c:forEach var="order" items="${t.orderIds}"> ${order},</c:forEach></td>
                     </tr>
                 </c:forEach>

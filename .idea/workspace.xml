@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java" line="38" mnemonic="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f47bb0-acfe-4966-8e2e-3deb1007b929" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/task2.jsp" afterDir="false" />
+    <list default="true" id="13f47bb0-acfe-4966-8e2e-3deb1007b929" name="Default Changelist" comment="Task5Servlet done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/snippets/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/snippets/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/web/listener/WebappContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/web/listener/WebappContextListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task1Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task1Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/task1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/task1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/task2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/task2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/task3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/task3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/task4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/task4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/task5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/task5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codecool/web/dao/Task1Dao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codecool/web/dao/Task1Dao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codecool/web/dao/database/DatabaseTask1Dao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codecool/web/dao/database/DatabaseTask1Dao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codecool/web/service/Task1Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codecool/web/service/Task1Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codecool/web/service/simple/SimpleTask1Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codecool/web/service/simple/SimpleTask1Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codecool/web/servlet/Task1Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codecool/web/servlet/Task1Servlet.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,79 +79,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask2Dao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/task1.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="15" column="23" lean-forward="true" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task2Result.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task2Servlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/task2.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/snippets/header.html">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="218">
+              <caret line="40" column="56" lean-forward="true" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,27 +103,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>companyName</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/model/Result.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task1Result.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task1Dao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/Task1Dao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task1Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask1Service.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/task1.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/reset.css" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task1Servlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/listener/WebappContextListener.java" />
         <option value="$PROJECT_DIR$/src/main/resources/init.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/IndexServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
@@ -183,16 +127,44 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task2Result.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task2Dao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/Task2Dao.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de4c430a-692c-430a-ad14-23bfdc372c8c/console.sql" />
-        <option value="$PROJECT_DIR$/src/main/webapp/task1.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask2Dao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task2Service.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask2Service.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task2Servlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/task2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task3Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task3Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask2Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask3Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task3Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask3Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task3Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/snippets/footer.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task4Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task4Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task4Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask4Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task4Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task5Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task5Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask4Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask5Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task5Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask5Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task5Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/snippets/header.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task1Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task1Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask1Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task1Servlet.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/de4c430a-692c-430a-ad14-23bfdc372c8c/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/task1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/task2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/task3.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/task4.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/task5.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/listener/WebappContextListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java" />
       </list>
     </option>
   </component>
@@ -214,6 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -294,76 +268,12 @@
               <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="codecool" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="intellij-maven-jdbc-quickstart" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="codecool" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="intellij-maven-jdbc-quickstart" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="codecool" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="simple" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="intellij-maven-jdbc-quickstart" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="codecool" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="servlet" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="intellij-maven-jdbc-quickstart" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="intellij-maven-jdbc-quickstart" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="intellij-maven-jdbc-quickstart" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="northwind-webapp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="snippets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,9 +291,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="stylesheet.code.style.group" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SQL" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codecool.web.model" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/css" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources" />
@@ -468,7 +381,8 @@
       <workItem from="1554552538111" duration="24000" />
       <workItem from="1554552772858" duration="161000" />
       <workItem from="1554552959214" duration="4763000" />
-      <workItem from="1554557758472" duration="15430000" />
+      <workItem from="1554557758472" duration="35143000" />
+      <workItem from="1554730752037" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="database dao for task2">
       <created>1554621085795</created>
@@ -491,16 +405,143 @@
       <option name="project" value="LOCAL" />
       <updated>1554622371685</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task2 page done">
+      <created>1554622870302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554622870302</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task3Result class created">
+      <created>1554623138875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554623138875</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task3Dao class done">
+      <created>1554624172338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554624172338</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task3Service class done">
+      <created>1554624596858</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554624596858</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task3Servlet class done">
+      <created>1554625335631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554625335631</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task3 page done,add footer.html">
+      <created>1554626393367</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554626393367</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task4Result class done">
+      <created>1554626761694</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554626761694</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task4Dao done">
+      <created>1554628248800</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554628248800</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task4Service done">
+      <created>1554628480823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554628480823</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task4Servlet done">
+      <created>1554637008116</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554637008116</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task4 page done">
+      <created>1554637930086</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554637930086</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task5Result class done">
+      <created>1554638436381</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554638436381</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task5Dao done">
+      <created>1554640268654</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554640268654</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task5Service done">
+      <created>1554640512023</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554640512023</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Task5Servlet done">
+      <created>1554641063333</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554641063333</updated>
+    </task>
+    <task id="LOCAL-00019" summary="All tasks done">
+      <created>1554641357576</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554641357576</updated>
+    </task>
+    <task id="LOCAL-00020" summary="task1 getFiltered Dao done">
+      <created>1554645993532</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554645993532</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Task1Service filtered method done">
+      <created>1554646361117</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554646361117</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36943000" />
+    <option name="totallyTimeSpent" value="56950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="852" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25353926" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25675675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -516,15 +557,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Spring" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32867134" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Database Console" order="14" weight="0.8041958" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" show_stripe_button="false" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" weight="0.32867134" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.72307694" />
       <window_info anchor="bottom" id="DB Execution Console" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32867134" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="17" show_stripe_button="false" weight="0.32867134" />
       <window_info anchor="right" id="PlantUML" order="0" weight="0.17503217" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Database" order="2" weight="0.32947233" />
@@ -545,303 +588,32 @@
     <MESSAGE value="database dao for task2" />
     <MESSAGE value="SimpleTask2Services class done" />
     <MESSAGE value="SimpleTask2Servlet class done" />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleTask2Servlet class done" />
+    <MESSAGE value="Task2 page done" />
+    <MESSAGE value="Task3Result class created" />
+    <MESSAGE value="Task3Dao class done" />
+    <MESSAGE value="Task3Service class done" />
+    <MESSAGE value="Task3Servlet class done" />
+    <MESSAGE value="Task3 page done,add footer.html" />
+    <MESSAGE value="Task4Result class done" />
+    <MESSAGE value="Task4Dao done" />
+    <MESSAGE value="Task4Service done" />
+    <MESSAGE value="Task4Servlet done" />
+    <MESSAGE value="Task4 page done" />
+    <MESSAGE value="Task5Result class done" />
+    <MESSAGE value="Task5Dao done" />
+    <MESSAGE value="Task5Service done" />
+    <MESSAGE value="Task5Servlet done" />
+    <MESSAGE value="All tasks done" />
+    <MESSAGE value="task1 getFiltered Dao done" />
+    <MESSAGE value="Task1Service filtered method done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1Service filtered method done" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/task1.xhtml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/ShopServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="28" column="48" selection-start-line="22" selection-start-column="8" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/image/world.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/LogoutServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/ProfileServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/CouponsServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://de4c430a-692c-430a-ad14-23bfdc372c8c/database/northwind/schema/public/table/products">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleShopService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/de4c430a-692c-430a-ad14-23bfdc372c8c">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>de4c430a-692c-430a-ad14-23bfdc372c8c</OriginalElement>
-          <nodes>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.employees</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.customer_customer_demo</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.products</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.customer_demographics</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.employee_territories</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.suppliers</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.orders</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.territories</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.us_states</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.categories</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.customers</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.region</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.shippers</node>
-            <node x="" y="">de4c430a-692c-430a-ad14-23bfdc372c8c.TABLE:northwind.public.order_details</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.4020408163265306" x="911.0" y="725.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/listener/WebappContextListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1196">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/init.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1610">
-          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/ShopsServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/CouponServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseShopDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="82" selection-start-line="82" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/ShopDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task1Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task2Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/AbstractDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Shop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task1Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/AbstractModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/CouponService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/CouponDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleCouponService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/filter/SessionFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/filter/SessionFilter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/exception/ServiceException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="67" column="16" lean-forward="true" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/AbstractServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task2Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task1Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask1Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,81 +624,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task1Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task2Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/task1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" column="23" lean-forward="true" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/de4c430a-692c-430a-ad14-23bfdc372c8c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask2Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask2Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -943,17 +640,425 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task2Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/AbstractServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task3Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask2Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask3Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task3Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask3Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task3Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://de4c430a-692c-430a-ad14-23bfdc372c8c/database/northwind/schema/public/table/categories">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://de4c430a-692c-430a-ad14-23bfdc372c8c/database/northwind/schema/public/table/customer_customer_demo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://de4c430a-692c-430a-ad14-23bfdc372c8c/database/northwind/schema/public/table/customer_demographics">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://de4c430a-692c-430a-ad14-23bfdc372c8c/database/northwind/schema/public/table/orders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task4Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task5Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task2Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task4Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task5Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask4Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task4Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task1Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task5Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask2Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/Task1Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask5Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/Task5Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask5Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/service/simple/SimpleTask1Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/snippets/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task2Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task1Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/task2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="316">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/task4.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/task5.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/snippets/header.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/de4c430a-692c-430a-ad14-23bfdc372c8c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/servlet/Task1Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://de4c430a-692c-430a-ad14-23bfdc372c8c/database/northwind/schema/public/table/customers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask4Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/task3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task3Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/model/Task4Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/listener/WebappContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/task1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/web/dao/database/DatabaseTask1Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="40" column="56" lean-forward="true" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

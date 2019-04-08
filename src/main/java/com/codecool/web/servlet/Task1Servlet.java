@@ -35,6 +35,16 @@ public class Task1Servlet extends AbstractServlet {
     
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doPost(req, resp);
+        try (Connection connection = getConnection(req.getServletContext())) {
+            Task1Dao task1Dao = new DatabaseTask1Dao(connection);
+            Task1Service task1Service = new SimpleTask1Service(task1Dao);
+            String companyName = req.getParameter("filter");
+            List<Task1Result> task1Results = task1Service.getFilteredTask(companyName);
+        
+            req.setAttribute("task1Results", task1Results);
+        } catch (SQLException ex) {
+            throw new ServletException(ex);
+        }
+        req.getRequestDispatcher("task1.jsp").forward(req, resp);
     }
 }

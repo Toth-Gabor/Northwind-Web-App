@@ -23,9 +23,9 @@
                 </tr>
                 <c:forEach var="t" items="${task5Results}">
                     <tr>
-                        <td>${t.company}"</td>
-                        <td>${t.product}"</td>
-                        <td>${t.price}"</td>
+                        <td>${t.company}</td>
+                        <td>${t.product}</td>
+                        <td>${t.price}</td>
                     </tr>
                 </c:forEach>
             </table>
